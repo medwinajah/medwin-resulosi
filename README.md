@@ -1,2 +1,2 @@
 # medwin-resulosi
-Repositori untuk menyimpan rencana 2026 kedapan-nya
+Repositori untuk menyimpan rencana 2026 kedepan-nya
